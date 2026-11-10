@@ -26,6 +26,7 @@ Classes:
 8. Sneaker
 9. Bag
 10. Ankle boot
+    
 
     
 ## Neural Network Model
